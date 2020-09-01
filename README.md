@@ -8,8 +8,8 @@
 
 #### Links
 
-- Twitter: https://twitter.com/0xmuhe
-- Blog: https://o0xmuhe.github.io/
+- [Twitter](https://twitter.com/0xmuhe)
+- [My Blog](https://o0xmuhe.github.io)
 
 
 #### Github stats
